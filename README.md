@@ -15,5 +15,5 @@ project/
 ├─ merge_docx.py
 ├─ input/ # Place all DOCX files to merge here in numeric order
 ├─ output/ # Merged DOCX 
-├─ requirements.txt
+├─ config.yaml
 └─ README.md
